@@ -1,3 +1,13 @@
+[//]: # (Project Introduction)
+
+## About This Project
+
+This project is a **fork** of another retro terminal theme. My goal was to transform it to closely resemble the look and feel of the **Commodore 64 terminal**, specifically inspired by the iconic style seen in the game *Grand Theft Auto: Vice City*. All modifications and enhancements are made in the spirit of **GNU**—free software, open collaboration, and respect for the original creators.
+
+If you appreciate retro aesthetics and the nostalgia of classic computing, you'll enjoy this theme!
+
+
+
 # LICENSE FONT
 
 *   Font: c64-truetype-v1.2.1 

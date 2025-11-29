@@ -1,13 +1,13 @@
 name = "Terminal"
 license = "MIT"
-licenselink = "https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md"
-description = "A simple, retro theme for Hugo."
-homepage = "https://github.com/panr/hugo-theme-terminal/"
-demosite = "https://panr.github.io/hugo-theme-terminal-demo/"
+licenselink = "https://github.com/FPGArtktic/commodore64-vice-city-hugo-theme-terminal/blob/master/LICENSE.md"
+description = "A simple, retro theme for Hugo. Repaint by Mateusz Okulanis (original author https://rkoziel.com)"
+homepage = "https://github.com/FPGArtktic/commodore64-vice-city-hugo-theme-terminal"
+demosite = "https://fpgartktic.github.io/about/"
 tags = ["blog", "clean", "customizable", "dark", "highlighting", "minimal", "monotone", "multilingual", "personal", "responsive", "simple", "technical", "retro"]
 features = ["blog", "shortcode", "syntax highlighting"]
 min_version = 0.90
 
 [author]
-  name = "panr"
-  homepage = "https://rkoziel.com"
+  name = "panr repaint by Mateusz Okulanis"
+  homepage = "https://fpgartktic.github.io/about/"
