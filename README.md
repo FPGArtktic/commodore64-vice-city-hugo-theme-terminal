@@ -1,11 +1,23 @@
 [//]: # (Project Introduction)
 
+
+# Commodore 64 Vice City Terminal Theme for Hugo
+
 ## About This Project
 
-This project is a **fork** of another retro terminal theme. My goal was to transform it to closely resemble the look and feel of the **Commodore 64 terminal**, specifically inspired by the iconic style seen in the game *Grand Theft Auto: Vice City*. All modifications and enhancements are made in the spirit of **GNU**—free software, open collaboration, and respect for the original creators.
+
+This theme is a **fork** of the original [hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) project. My intention was to adapt and modify it to evoke the classic **Commodore 64 terminal** experience, with a visual style inspired by the retro aesthetics featured in *Grand Theft Auto: Vice City*.
+
+All changes and improvements are made in the spirit of **GNU**—embracing free software, open collaboration, and respect for the original authors. If you love retro computing and open source, this theme is for you!
 
 If you appreciate retro aesthetics and the nostalgia of classic computing, you'll enjoy this theme!
 
+
+---
+**Theme adaptation and repaint by [Mateusz Okulanis](https://fpgartktic.github.io/about/).**
+
+Original theme author: [Radek Kozieł](https://rkoziel.com)
+---
 
 
 # LICENSE FONT
@@ -36,6 +48,9 @@ At all times the most recent version of this license can be found at "http://sty
 
 ---
 
+- [Commodore 64 Vice City Terminal Theme for Hugo](#commodore-64-vice-city-terminal-theme-for-hugo)
+  - [About This Project](#about-this-project)
+  - [Original theme author: Radek Kozieł](#original-theme-author-radek-kozieł)
 - [LICENSE FONT](#license-font)
 - [Terminal](#terminal)
   - [Features](#features)
